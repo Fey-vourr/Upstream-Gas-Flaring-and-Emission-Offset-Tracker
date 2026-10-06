@@ -59,7 +59,7 @@ It provides executives and operations teams with real-time operational visibilit
 
 ## 🚀 How to Run & Explore
 
-1. **View Live Interactive Report:** [Link to Power BI Dashboard](https://www.google.com/search?q=%23) *(Replace with your live link)*
+1. **View Live Interactive Report:** [Link to Power BI Dashboard]
 2. **Review Data Pipeline Code:** Inspect the Python script (`generate_data.py`) used to build the synthetic dataset.
 3. **Open Power BI File:**
 * Clone this repository:
