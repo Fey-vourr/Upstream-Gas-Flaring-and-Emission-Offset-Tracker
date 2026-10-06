@@ -59,8 +59,8 @@ It provides executives and operations teams with real-time operational visibilit
 
 ## 🚀 How to Run & Explore
 
-1. **View Live Interactive Report:** [Link to Power BI Dashboard]
-2. **Review Data Pipeline Code:** Inspect the Python script (`generate_data.py`) used to build the synthetic dataset.
+1. **View Live Interactive Report:** [Link to Power BI Dashboard] (https://github.com/Fey-vourr/Upstream-Gas-Flaring-and-Emission-Offset-Tracker/blob/main/Upstream%20Gas%20Flaring%20and%20Emission%20Offset%20Tracker.pbix)
+2. **Review Data Pipeline Code:** Inspect the Python script (``) used to build the synthetic dataset.
 3. **Open Power BI File:**
 * Clone this repository:
 ```bash
